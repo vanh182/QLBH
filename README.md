@@ -69,10 +69,7 @@ lượng sản phẩm đã mua
 
    ![image](https://github.com/vanh182/QLBH-Java-Swing/assets/118065256/ee9f60c0-dc1d-414f-b329-fb98ec98b2b9)
 
-   ![Uploading image.png…]()
-
-   ![Uploading image.png…]()
-
+  
    
 
 
