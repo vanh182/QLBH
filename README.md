@@ -4,8 +4,10 @@ QLBH with Java + Java Swing
 Demo video: https://youtu.be/r5ni82h7GaM?si=kGkZ83-hledI-8pe
 
 - Sử dụng Java và Java Swing với phong cách lập trình OOP
-• Cơ sở dữ liệu được kết nối với Microsoft SQL Server giúp duy trì việc lưu trữ dữ liệu bền vững và an toàn, phân tích dữ liệu và tạo báo cáo hỗ trợ quản lý bán hàng và xây dựng chiến lược bán hàng tốt hơn. 
-• Sử dụng bộ công cụ Java Swing, một công nghệ mạnh mẽ, độc lập với nền tảng, giúp tạo ra cách sử dụng và điều hướng giao diện thân thiện, dễ sử dụng
+
+- Cơ sở dữ liệu được kết nối với Microsoft SQL Server giúp duy trì việc lưu trữ dữ liệu bền vững và an toàn, phân tích dữ liệu và tạo báo cáo hỗ trợ quản lý bán hàng và xây dựng chiến lược bán hàng tốt hơn. 
+
+- Sử dụng bộ công cụ Java Swing, một công nghệ mạnh mẽ, độc lập với nền tảng, giúp tạo ra cách sử dụng và điều hướng giao diện thân thiện, dễ sử dụng
 
 Chức năng: Để quản lý nhân viên, khách hàng, sản phẩm, hóa đơn trong công ty.
 
